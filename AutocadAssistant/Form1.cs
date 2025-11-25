@@ -113,5 +113,10 @@ namespace AutocadAssistant
                 System.Diagnostics.Debug.WriteLine($"Не удалось удалить определение блока {blockNameTo}: {ex.Message}");
             }
         }
+
+        private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
